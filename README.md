@@ -10,6 +10,10 @@ SMSLink.ro allows you to send SMS to all mobile networks in Romania and also to 
 3. Find and replace within the example the values for Connection ID and Password parameters with the values obtained at the previous step.
 4. Within the examples find and replace the value for *to* and *message* parameters with the destination phone number for the SMS and with the message to be sent to the destination. Phone numbers should be formatted as a Romanian national mobile phone number (*07xyzzzzzz*).
 
+## New Version Available
+
+Please note that there is a [new version availabile](https://github.com/SMSLink-ro/Example-for-sending-SMS-using-PHP-with-BULK-Endpoint-ver.-3/) for SMS Gateway (BULK) API, called SMS Gateway (BULK) Endpoint Version 3, that includes more features.
+
 ## About SMS Gateway (BULK) Endpoint Version 1 API
 
 Please note that SMS Gateway (BULK) Endpoint Version 1 API is designed to send large volumes of SMS in a single request and thus can send only SMS up to 160 characters. 
