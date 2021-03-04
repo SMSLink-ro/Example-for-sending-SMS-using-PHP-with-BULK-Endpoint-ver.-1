@@ -30,6 +30,7 @@
  *         https://www.smslink.ro/get-api-key/
  *
  *   @version    2.1
+ *   @updated    2021-03-04
  *   @see        https://www.smslink.ro/sms-gateway-documentatie-sms-gateway.html
  *
  */
