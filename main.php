@@ -29,7 +29,7 @@
  *     Get your SMSLink / SMS Gateway Connection ID and Password from
  *         https://www.smslink.ro/get-api-key/
  *
- *   @version    2.0
+ *   @version    2.1
  *   @see        https://www.smslink.ro/sms-gateway-documentatie-sms-gateway.html
  *
  */
