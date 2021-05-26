@@ -30,6 +30,10 @@ Examples for SMS Gateway (HTTP), SMS Gateway (SOAP), SMS Gateway (JSON) or SMS G
 
 The [complete documentation](https://www.smslink.ro/sms-gateway-documentatie-sms-gateway.html) of the SMSLink - SMS Gateway API can be found [here](https://www.smslink.ro/sms-gateway-documentatie-sms-gateway.html), describing all available APIs (HTTP GET / POST, SOAP / WSDL, JSON and more).
 
+## System Requirements 
+
+PHP 5 or greater with CURL enabled
+
 ## Additional modules and integrations
 
 SMSLink also provides modules for major eCommerce platforms (on-premise & on-demand), integrations using Microsoft Power Automate, Zapier or Integromat and many other useful features. Read more about all available features [here](https://www.smslink.ro/sms-gateway.html). 
